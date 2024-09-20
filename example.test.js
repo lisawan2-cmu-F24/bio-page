@@ -5,6 +5,6 @@ describe('Demo Test Suite', () => {
     });
   
     test('Demo bad test', () => {
-          expect(8 + 8).toBe(16));
+          expect(8 + 8).toBe(16);
     });
   });
